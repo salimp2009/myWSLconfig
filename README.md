@@ -1,2 +1,2 @@
 # myconfig & dotfiles
-Not used any. Switched to Arch
+Not used any more. Switched to Arch
